@@ -1,0 +1,6 @@
+{
+  "name": "Academic Usability Metrics Studio",
+  "description": "Dashboard evaluasi kebergunaan akademik berbasis System Usability Scale (SUS) dan After-Scenario Questionnaire (ASQ) dengan analitik komprehensif, ekspor data, dan manajemen responden.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
